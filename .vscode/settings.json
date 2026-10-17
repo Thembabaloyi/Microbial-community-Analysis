@@ -1,0 +1,20 @@
+{
+  "r.rpath.windows": "C:\\Program Files\\R\\R-4.6.1\\bin\\R.exe",
+  "r.rterm.windows": "C:\\Program Files\\R\\R-4.6.1\\bin\\R.exe",
+  "r.rterm.option": ["--no-save", "--no-restore"],
+  "r.bracketedPaste": true,
+  "r.sessionWatcher": true,
+  "r.alwaysUseActiveTerminal": false,
+  "r.plot.useHttpgd": true,
+  "r.lsp.enabled": true,
+  "r.workspaceViewer.showObjectSize": true,
+  "[r]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.defaultFormatter": "REditorSupport.r"
+  },
+  "files.associations": {
+    "*.R": "r",
+    "*.Rprofile": "r"
+  }
+}

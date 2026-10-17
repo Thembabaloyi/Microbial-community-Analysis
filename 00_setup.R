@@ -45,7 +45,7 @@ TIME_LEVELS    <- c("7 days", "14 days", "21 days")
 RPM_LEVELS     <- c("0", "90", "125", "150")
 
 COL_PLASTIC <- c(PVC = "#E41A1C", HDPE = "#377EB8", PP = "#4DAF4A")
-COL_TIME    <- c("7 days" = "#FDBF6F", "14 days" = "#FF7F00", "21 days" = "#B15928")
+COL_TIME    <- c("7 days" = "#FDBF6F", "14 days" = "#FF7F00", "21 days" = "#a85d34")
 COL_RPM     <- c("0" = "#EDF8E9", "90" = "#BAE4B3", "125" = "#74C476", "150" = "#238B45")
 COL_RPM_PCOA <- c("0" = "#9ECAE1", "90" = "#4292C6", "125" = "#08306B", "150" = "#AE017E")
 
